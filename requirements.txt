@@ -1,2 +1,2 @@
-flask : https://pypi.org/project/Flask/
+flask
 SQLALchemy
