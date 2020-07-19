@@ -1,1 +1,2 @@
 flask : https://pypi.org/project/Flask/
+SQLALchemy
